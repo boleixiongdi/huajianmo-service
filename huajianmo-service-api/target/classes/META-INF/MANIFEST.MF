@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: leijiwen
+Build-Jdk: 1.7.0_71
+Specification-Title: huajianmo-service-api
+Specification-Version: 2.8.4a
+Specification-Vendor: Alibaba
+Implementation-Title: huajianmo-service-api
+Implementation-Version: 2.8.4a
+Implementation-Vendor-Id: com.alibaba
+Implementation-Vendor: Alibaba
+Created-By: Maven Integration for Eclipse
+
